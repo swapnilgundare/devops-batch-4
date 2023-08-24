@@ -5,3 +5,4 @@ git remote -v
 git pull
 git fetch
 git push
+git remote set-url https://token/github.com/swapnilgundare/devops-batch-4
